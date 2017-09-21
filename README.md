@@ -12,7 +12,7 @@
 
 ```
 GET  | Enviar Informacion de la Cotización
-POST | Actualizar los campos de FolioBoleta,FechaBoleta,ImportePrestamo
+SET  | Actualizar los campos de FolioBoleta,FechaBoleta,ImportePrestamo
 ```
 
 ## Resultado
