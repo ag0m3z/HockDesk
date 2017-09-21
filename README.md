@@ -15,7 +15,19 @@ GET  | Enviar Informacion de la Cotización
 POST | Actualizar los campos de FolioBoleta,FechaBoleta,ImportePrestamo
 ```
 
-## Tipos de Errores
+## Resultado
+
+Los Primeros 2 Campos son de ``Estasu`` y ``Mensaje``<br>
+En el metodo ``GET`` los demas campos es la información del la cotizacioón
+
+## Estatus
++ ``Eror`` | Metodo No Soportado
++ ``No Existe`` | No se Encontro el Folio
++ ``Activa`` | Solicitud Exitosa
++ ``Vencida`` | Cotizacion Vencida
++ ``Cancelada`` | Cotizacion Cancelada
++ ``Prestamo ``  | Cotizacion Actualizada correctamente
+
 
 
 
