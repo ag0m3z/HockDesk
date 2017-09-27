@@ -6,6 +6,12 @@
  * Time: 05:14 PM
  */
 
+ 
+ echo date("H:i:s");
+ 
+ echo "<br>";
+ 
+ 
 ?>
 <script src="/HockDesk/plugin/jQuery/jQuery-2.2.0.min.js"></script>
 <script src="/HockDesk/public/js/HockDesk.js"></script>
